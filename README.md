@@ -1,2 +1,2 @@
 # Sergii
-I am a scientist
+ I am scientist
